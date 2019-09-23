@@ -26,8 +26,15 @@
     },
     {
         "package_version": "2.22.0",
+        "time_to_live": 1571792438,
         "package": "requests",
         "layer_version_arn": "arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultrequests:3",
+        "deployed_region": "ap-east-1"
+    },
+    {
+        "package_version": "2.22.0",
+        "package": "requests",
+        "layer_version_arn": "arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultrequests:4",
         "deployed_region": "ap-east-1"
     }
 ]
