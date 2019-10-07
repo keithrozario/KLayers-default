@@ -37,5 +37,11 @@
         "package": "requests",
         "layer_version_arn": "arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultrequests:4",
         "deployed_region": "me-south-1"
+    },
+    {
+        "package_version": "2.2.1",
+        "package": "spacy",
+        "layer_version_arn": "arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultspacy:1",
+        "deployed_region": "me-south-1"
     }
 ]
