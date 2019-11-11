@@ -6,12 +6,6 @@
         "deployed_region": "ap-east-1"
     },
     {
-        "package_version": "5.1.2",
-        "package": "PyYAML",
-        "layer_version_arn": "arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultPyYAML:1",
-        "deployed_region": "ap-east-1"
-    },
-    {
         "package_version": "1.1.1c",
         "package": "openssl",
         "layer_version_arn": "arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultopenssl:2",
@@ -45,6 +39,12 @@
         "package_version": "1.0.0rc2",
         "package": "pyqldb",
         "layer_version_arn": "arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultpyqldb:1",
+        "deployed_region": "ap-east-1"
+    },
+    {
+        "package_version": "5.1.2",
+        "package": "PyYAML",
+        "layer_version_arn": "arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultPyYAML:2",
         "deployed_region": "ap-east-1"
     }
 ]
