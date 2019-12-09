@@ -1,20 +1,57 @@
 [
     {
-        "package_version": "2.22.0",
-        "package": "requests",
-        "layer_version_arn": "arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultrequests:3",
-        "deployed_region": "me-south-1"
-    },
-    {
         "package_version": "2.8",
         "package": "idna",
-        "layer_version_arn": "arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultidna:2",
+        "layer_version_arn": "arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultidna:1",
         "deployed_region": "me-south-1"
     },
     {
-        "package_version": "5.2",
+        "package_version": "5.1.2",
         "package": "PyYAML",
-        "layer_version_arn": "arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultPyYAML:2",
+        "layer_version_arn": "arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultPyYAML:1",
+        "deployed_region": "me-south-1"
+    },
+    {
+        "package_version": "2.22.0",
+        "time_to_live": 1576630816,
+        "package": "requests",
+        "layer_version_arn": "arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultrequests:4",
+        "deployed_region": "me-south-1"
+    },
+    {
+        "package_version": "2.2.1",
+        "package": "spacy",
+        "layer_version_arn": "arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultspacy:1",
+        "deployed_region": "me-south-1"
+    },
+    {
+        "package_version": "1.6.10",
+        "package": "pulp",
+        "layer_version_arn": "arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultpulp:1",
+        "deployed_region": "me-south-1"
+    },
+    {
+        "package_version": "4.1.5",
+        "package": "textdistance",
+        "layer_version_arn": "arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaulttextdistance:1",
+        "deployed_region": "me-south-1"
+    },
+    {
+        "package_version": "1.0.0rc2",
+        "package": "pyqldb",
+        "layer_version_arn": "arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultpyqldb:1",
+        "deployed_region": "me-south-1"
+    },
+    {
+        "package_version": "2.22.0",
+        "package": "requests",
+        "layer_version_arn": "arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultrequests:5",
+        "deployed_region": "me-south-1"
+    },
+    {
+        "package_version": "1.10.26",
+        "package": "boto3",
+        "layer_version_arn": "arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultboto3:1",
         "deployed_region": "me-south-1"
     }
 ]
