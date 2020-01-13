@@ -7,6 +7,7 @@
     },
     {
         "package_version": "5.2",
+        "time_to_live": 1581472818,
         "package": "PyYAML",
         "layer_version_arn": "arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultPyYAML:2",
         "deployed_region": "ap-southeast-1"
@@ -15,6 +16,12 @@
         "package_version": "2.22.0",
         "package": "requests",
         "layer_version_arn": "arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrequests:3",
+        "deployed_region": "ap-southeast-1"
+    },
+    {
+        "package_version": "5.3",
+        "package": "PyYAML",
+        "layer_version_arn": "arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultPyYAML:3",
         "deployed_region": "ap-southeast-1"
     }
 ]

@@ -13,8 +13,15 @@
     },
     {
         "package_version": "5.2",
+        "time_to_live": 1581472813,
         "package": "PyYAML",
         "layer_version_arn": "arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultPyYAML:2",
+        "deployed_region": "me-south-1"
+    },
+    {
+        "package_version": "5.3",
+        "package": "PyYAML",
+        "layer_version_arn": "arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultPyYAML:3",
         "deployed_region": "me-south-1"
     }
 ]
