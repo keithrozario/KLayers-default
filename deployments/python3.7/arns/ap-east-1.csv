@@ -4,7 +4,9 @@ idna,2.8,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultid
 openssl,1.1.1c,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultopenssl:2,
 pulp,1.6.10,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultpulp:1,
 pyqldb,1.0.0rc2,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultpyqldb:1,
-PyYAML,5.1.2,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultPyYAML:2,
-requests,2.22.0,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultrequests:6,
+PyYAML,5.1.2,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultPyYAML:2,19-02-2020
+PyYAML,5.3,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultPyYAML:3,
+requests,2.22.0,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultrequests:6,19-02-2020
+requests,2.22.0,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultrequests:7,
 spacy,2.2.1,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultspacy:1,
 textdistance,4.1.5,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaulttextdistance:1,

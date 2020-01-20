@@ -3,7 +3,9 @@ boto3,1.10.26,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-def
 idna,2.8,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultidna:1,
 pulp,1.6.10,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultpulp:1,
 pyqldb,1.0.0rc2,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultpyqldb:1,
-PyYAML,5.1.2,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultPyYAML:1,
-requests,2.22.0,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultrequests:5,
+PyYAML,5.1.2,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultPyYAML:1,19-02-2020
+PyYAML,5.3,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultPyYAML:2,
+requests,2.22.0,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultrequests:5,19-02-2020
+requests,2.22.0,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultrequests:6,
 spacy,2.2.1,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultspacy:1,
 textdistance,4.1.5,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaulttextdistance:1,
