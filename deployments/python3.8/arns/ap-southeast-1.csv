@@ -2,4 +2,5 @@ package,package_version,layer_version_arn,time_to_live
 idna,2.8,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultidna:2,
 PyYAML,5.2,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultPyYAML:2,12-02-2020
 PyYAML,5.3,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultPyYAML:3,
-requests,2.22.0,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrequests:3,
+requests,2.22.0,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrequests:3,04-03-2020
+requests,2.22.0,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrequests:4,
