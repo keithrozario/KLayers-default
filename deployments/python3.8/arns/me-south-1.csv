@@ -5,4 +5,3 @@ PyYAML,5.2,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaul
 PyYAML,5.3,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultPyYAML:3,
 pyYaml,5.3,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultpyYaml:1,
 requests,2.22.0,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultrequests:3,26-02-2020
-requests,2.22.0,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultrequests:4,
