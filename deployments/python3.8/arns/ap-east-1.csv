@@ -1,6 +1,12 @@
 package,package_version,layer_version_arn,time_to_live
-idna,2.8,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultidna:2,
+aiobotocore,0.11.1,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultaiobotocore:1,
+boto3,1.12.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultboto3:1,
+idna,2.8,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultidna:2,25-03-2020
+idna,2.9,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultidna:3,
+pulp,2.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultpulp:1,
 PyYAML,5.3,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultPyYAML:3,
 pyYaml,5.3,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultpyYaml:1,
 requests,2.22.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultrequests:3,11-03-2020
-requests,2.22.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultrequests:4,
+requests,2.22.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultrequests:4,25-03-2020
+requests,2.23.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultrequests:5,
+tablib,1.1.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaulttablib:1,
