@@ -9,4 +9,5 @@ PyYAML,5.3,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-de
 pyYaml,5.3,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultpyYaml:1,
 requests,2.22.0,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrequests:5,25-03-2020
 requests,2.23.0,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrequests:6,
+spacy_model_en_small,2.25,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultspacy_model_en_small:1,
 tablib,1.1.0,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaulttablib:1,
