@@ -7,7 +7,6 @@ idna,2.9,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultid
 pulp,2.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultpulp:1,
 PyYAML,5.3,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultPyYAML:3,
 pyYaml,5.3,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultpyYaml:1,
-requests,2.22.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultrequests:3,11-03-2020
 requests,2.22.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultrequests:4,25-03-2020
 requests,2.23.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultrequests:5,
 spacy_model_en_small,2.25,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultspacy_model_en_small:1,
