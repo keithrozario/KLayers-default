@@ -6,7 +6,8 @@ idna,2.8,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaulti
 idna,2.9,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultidna:3,
 parliament,0.4.6,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultparliament:1,
 pulp,2.0,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultpulp:1,
-PyYAML,5.3,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultPyYAML:3,
+PyYAML,5.3,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultPyYAML:3,22-04-2020
+PyYAML,5.3.1,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultPyYAML:4,
 pyYaml,5.3,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultpyYaml:1,
 requests,2.22.0,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultrequests:5,25-03-2020
 requests,2.23.0,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultrequests:6,
