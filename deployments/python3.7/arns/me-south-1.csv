@@ -1,11 +1,9 @@
 package,package_version,layer_version_arn,time_to_live
-idna,2.8,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultidna:1,25-03-2020
 spacy,2.2.1,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultspacy:1,
 pulp,1.6.10,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultpulp:1,
 textdistance,4.1.5,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaulttextdistance:1,
 pyqldb,1.0.0rc2,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultpyqldb:1,
 PyYAML,5.3,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultPyYAML:2,22-04-2020
-requests,2.22.0,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultrequests:7,25-03-2020
 boto3,1.12.0,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultboto3:2,
 idna,2.9,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultidna:2,
 requests,2.23.0,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultrequests:8,
