@@ -3,11 +3,14 @@ aiobotocore,0.11.1,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python3
 boto3,1.12.0,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultboto3:1,
 crhelper,2.0.5,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultcrhelper:1,
 idna,2.9,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultidna:3,
+matplotlib,3.2.1,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultmatplotlib:1,
 parliament,0.4.6,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultparliament:1,
 pulp,2.0,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultpulp:1,
 PyYAML,5.3,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultPyYAML:3,22-04-2020
 PyYAML,5.3.1,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultPyYAML:4,
 pyYaml,5.3,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultpyYaml:1,
-requests,2.23.0,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultrequests:6,
+requests,2.23.0,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultrequests:6,06-05-2020
+requests,2.23.0,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultrequests:7,
+simple-lambda-cache,0.5.5,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultsimple-lambda-cache:1,
 spacy_model_en_small,2.25,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultspacy_model_en_small:1,
 tablib,1.1.0,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaulttablib:1,
