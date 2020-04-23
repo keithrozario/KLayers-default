@@ -3,3 +3,4 @@ requests, Apache-2.0, Kenneth Reitz <me@kennethreitz.org>
 idna, https://github.com/kjd/idna/blob/master/LICENSE.rst, Kim Davis kim@cynosure.com.au
 PyYAML, MIT, Kirril Simonov <xi@resolvent.net>
 lambda-cache, MIT, Keith Rozario <keith@keithrozario.com>
+aws-requests-auth, BSD, David Muller <davehmuller@gmail.com>
