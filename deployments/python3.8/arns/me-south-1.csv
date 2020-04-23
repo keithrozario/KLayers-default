@@ -8,7 +8,6 @@ lambda-cache,0.8.1,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python3
 matplotlib,3.2.1,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultmatplotlib:1,
 parliament,0.4.6,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultparliament:1,
 pulp,2.0,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultpulp:1,
-PyYAML,5.3,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultPyYAML:3,22-04-2020
 PyYAML,5.3.1,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultPyYAML:4,
 pyYaml,5.3,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultpyYaml:1,
 requests,2.23.0,arn:aws:lambda:me-south-1:908645878701:layer:pylayers-python38-defaultrequests:6,06-05-2020
