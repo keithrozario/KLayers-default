@@ -4,7 +4,6 @@ spacy,2.2.1,arn:aws:lambda:ap-southeast-1:113088814899:layer:pylayers-python37-d
 pulp,1.6.10,arn:aws:lambda:ap-southeast-1:113088814899:layer:pylayers-python37-defaultpulp:1,
 textdistance,4.1.5,arn:aws:lambda:ap-southeast-1:113088814899:layer:pylayers-python37-defaulttextdistance:1,
 pyqldb,1.0.0rc2,arn:aws:lambda:ap-southeast-1:113088814899:layer:pylayers-python37-defaultpyqldb:1,
-PyYAML,5.3,arn:aws:lambda:ap-southeast-1:113088814899:layer:pylayers-python37-defaultPyYAML:6,22-04-2020
 boto3,1.12.0,arn:aws:lambda:ap-southeast-1:113088814899:layer:pylayers-python37-defaultboto3:2,
 idna,2.9,arn:aws:lambda:ap-southeast-1:113088814899:layer:pylayers-python37-defaultidna:5,
 requests,2.23.0,arn:aws:lambda:ap-southeast-1:113088814899:layer:pylayers-python37-defaultrequests:12,06-05-2020
