@@ -1,5 +1,8 @@
 package,package_version,layer_version_arn,time_to_live
 aiobotocore,0.11.1,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaiobotocore:1,
+aws-lambda-powertools,0.8.0,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaws-lambda-powertools:2,
+aws-xray-sdk,2.5.0,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaws-xray-sdk:1,
+bcrypt,3.1.7,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultbcrypt:1,
 boto3,1.12.0,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultboto3:1,
 crhelper,2.0.5,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultcrhelper:1,
 idna,2.9,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultidna:3,
@@ -7,11 +10,14 @@ lambda-cache,0.8.0,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-pyt
 lambda-cache,0.8.1,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultlambda-cache:2,
 matplotlib,3.2.1,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultmatplotlib:1,
 pulp,2.0,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultpulp:1,
+pyqldb,2.0.1,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultpyqldb:1,
 PyYAML,5.3.1,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultPyYAML:4,
 pyYaml,5.3,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultpyYaml:1,
+records,0.5.3,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrecords:1,
 requests,2.23.0,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrequests:6,06-05-2020
 requests,2.23.0,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrequests:7,18-05-2020
 requests,2.23.0,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrequests:8,
 simple-lambda-cache,0.5.5,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultsimple-lambda-cache:1,
+spacy,2.2.4,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultspacy:1,
 spacy_model_en_small,2.25,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultspacy_model_en_small:1,
 tablib,1.1.0,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaulttablib:1,
