@@ -6,7 +6,6 @@ textdistance,4.1.5,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37
 pyqldb,1.0.0rc2,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultpyqldb:1,
 boto3,1.12.0,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultboto3:2,
 idna,2.9,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultidna:3,
-requests,2.23.0,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultrequests:9,06-05-2020
 PyYAML,5.3.1,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultPyYAML:4,
 requests,2.23.0,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultrequests:10,20-05-2020
 requests,2.23.0,arn:aws:lambda:ap-east-1:113088814899:layer:pylayers-python37-defaultrequests:11,
