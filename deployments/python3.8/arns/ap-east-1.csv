@@ -1,9 +1,11 @@
 package,package_version,layer_version_arn,time_to_live
 aiobotocore,0.11.1,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultaiobotocore:1,
 aws-lambda-powertools,0.8.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultaws-lambda-powertools:2,03-06-2020
-aws-lambda-powertools,0.8.1,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultaws-lambda-powertools:3,
+aws-lambda-powertools,0.8.1,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultaws-lambda-powertools:3,10-06-2020
+aws-lambda-powertools,0.8.1,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultaws-lambda-powertools:4,
 aws-xray-sdk,2.5.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultaws-xray-sdk:1,03-06-2020
-aws-xray-sdk,2.5.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultaws-xray-sdk:2,
+aws-xray-sdk,2.5.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultaws-xray-sdk:2,10-06-2020
+aws-xray-sdk,2.5.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultaws-xray-sdk:3,
 bcrypt,3.1.7,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultbcrypt:1,
 boto3,1.12.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultboto3:1,
 crhelper,2.0.5,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultcrhelper:1,
@@ -13,11 +15,11 @@ lambda-cache,0.8.1,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38
 matplotlib,3.2.1,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultmatplotlib:1,
 pulp,2.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultpulp:1,
 pyqldb,2.0.1,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultpyqldb:1,03-06-2020
-pyqldb,2.0.1,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultpyqldb:2,
+pyqldb,2.0.1,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultpyqldb:2,10-06-2020
+pyqldb,2.0.2,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultpyqldb:3,
 PyYAML,5.3.1,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultPyYAML:4,
 pyYaml,5.3,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultpyYaml:1,
 records,0.5.3,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultrecords:1,
-requests,2.23.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultrequests:5,06-05-2020
 requests,2.23.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultrequests:6,18-05-2020
 requests,2.23.0,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultrequests:7,
 simple-lambda-cache,0.5.5,arn:aws:lambda:ap-east-1:908645878701:layer:pylayers-python38-defaultsimple-lambda-cache:1,
