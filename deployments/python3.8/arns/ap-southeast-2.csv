@@ -1,0 +1,10 @@
+Package,Package Version,Arn,Status,Expiry Date
+aws-lambda-powertools,0.9.3,arn:aws:lambda:ap-southeast-2:908645878701:layer:pylayers-python38-defaultaws-lambda-powertools:1,latest,
+aws-xray-sdk,2.5.0,arn:aws:lambda:ap-southeast-2:908645878701:layer:pylayers-python38-defaultaws-xray-sdk:1,latest,
+bcrypt,3.1.7,arn:aws:lambda:ap-southeast-2:908645878701:layer:pylayers-python38-defaultbcrypt:1,latest,
+idna,2.9,arn:aws:lambda:ap-southeast-2:908645878701:layer:pylayers-python38-defaultidna:1,latest,
+lambda-cache,0.8.1,arn:aws:lambda:ap-southeast-2:908645878701:layer:pylayers-python38-defaultlambda-cache:1,latest,
+pyqldb,2.0.2,arn:aws:lambda:ap-southeast-2:908645878701:layer:pylayers-python38-defaultpyqldb:1,latest,
+PyYAML,5.3.1,arn:aws:lambda:ap-southeast-2:908645878701:layer:pylayers-python38-defaultPyYAML:1,latest,
+records,0.5.3,arn:aws:lambda:ap-southeast-2:908645878701:layer:pylayers-python38-defaultrecords:1,latest,
+spacy,2.2.4,arn:aws:lambda:ap-southeast-2:908645878701:layer:pylayers-python38-defaultspacy:1,latest,
