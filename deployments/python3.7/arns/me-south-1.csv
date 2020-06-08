@@ -6,4 +6,5 @@ pyqldb,1.0.0rc2,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-d
 boto3,1.12.0,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultboto3:2,
 idna,2.9,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultidna:2,
 PyYAML,5.3.1,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultPyYAML:3,
-requests,2.23.0,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultrequests:10,
+requests,2.23.0,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultrequests:10,08-07-2020
+requests,2.23.0,arn:aws:lambda:me-south-1:113088814899:layer:pylayers-python37-defaultrequests:11,
