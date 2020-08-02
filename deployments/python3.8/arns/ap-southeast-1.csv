@@ -14,7 +14,8 @@ aws-lambda-powertools,1.0.1,deprecated,2020-09-11T02:00:25,arn:aws:lambda:ap-sou
 aws-lambda-powertools,1.0.1,deprecated,2020-09-18T02:00:25,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaws-lambda-powertools:15
 aws-lambda-powertools,1.0.2,deprecated,2020-09-25T02:00:23,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaws-lambda-powertools:16
 aws-lambda-powertools,1.0.2,deprecated,2020-10-01T10:25:21,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaws-lambda-powertools:17
-aws-lambda-powertools,1.0.2,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaws-lambda-powertools:18
+aws-lambda-powertools,1.0.2,deprecated,2020-10-01T10:44:47,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaws-lambda-powertools:18
+aws-lambda-powertools,1.0.2,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaws-lambda-powertools:19
 aws-requests-auth,0.4.3,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaws-requests-auth:1
 aws-xray-sdk,2.5.0,deprecated,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaws-xray-sdk:1
 aws-xray-sdk,2.5.0,deprecated,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaws-xray-sdk:2
@@ -30,7 +31,8 @@ aws-xray-sdk,2.6.0,deprecated,2020-09-11T02:00:24,arn:aws:lambda:ap-southeast-1:
 aws-xray-sdk,2.6.0,deprecated,2020-09-18T02:00:23,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaws-xray-sdk:14
 aws-xray-sdk,2.6.0,deprecated,2020-09-25T02:00:24,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaws-xray-sdk:15
 aws-xray-sdk,2.6.0,deprecated,2020-10-01T10:25:21,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaws-xray-sdk:16
-aws-xray-sdk,2.6.0,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaws-xray-sdk:17
+aws-xray-sdk,2.6.0,deprecated,2020-10-01T10:44:47,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaws-xray-sdk:17
+aws-xray-sdk,2.6.0,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultaws-xray-sdk:18
 bcrypt,3.1.7,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultbcrypt:1
 bcrypt,3.1.7,deprecated,2020-08-07T02:00:17,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultbcrypt:10
 bcrypt,3.1.7,deprecated,2020-08-08T03:25:37,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultbcrypt:11
@@ -42,7 +44,8 @@ bcrypt,3.1.7,deprecated,2020-09-11T02:00:15,arn:aws:lambda:ap-southeast-1:908645
 bcrypt,3.1.7,deprecated,2020-09-18T02:00:17,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultbcrypt:17
 bcrypt,3.1.7,deprecated,2020-09-25T02:00:17,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultbcrypt:18
 bcrypt,3.1.7,deprecated,2020-10-01T10:25:14,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultbcrypt:19
-bcrypt,3.1.7,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultbcrypt:20
+bcrypt,3.1.7,deprecated,2020-10-01T10:44:38,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultbcrypt:20
+bcrypt,3.1.7,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultbcrypt:21
 boto3,1.13.19,deprecated,2020-08-08T01:34:18,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultboto3:20
 boto3,1.13.25,deprecated,2020-08-13T14:41:08,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultboto3:24
 boto3,1.14.2,deprecated,2020-08-27T04:22:20,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultboto3:28
@@ -56,7 +59,8 @@ idna,2.10,deprecated,2020-09-11T02:00:16,arn:aws:lambda:ap-southeast-1:908645878
 idna,2.10,deprecated,2020-09-18T02:00:16,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultidna:10
 idna,2.10,deprecated,2020-09-25T02:00:14,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultidna:11
 idna,2.10,deprecated,2020-10-01T10:25:13,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultidna:12
-idna,2.10,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultidna:13
+idna,2.10,deprecated,2020-10-01T10:44:39,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultidna:13
+idna,2.10,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultidna:14
 lambda-cache,0.8.1,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultlambda-cache:2
 matplotlib,3.2.1,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultmatplotlib:1
 pulp,2.0,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultpulp:1
@@ -74,7 +78,8 @@ pyqldb,2.0.2,deprecated,2020-09-11T02:00:25,arn:aws:lambda:ap-southeast-1:908645
 pyqldb,2.0.2,deprecated,2020-09-18T02:00:25,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultpyqldb:14
 pyqldb,2.0.2,deprecated,2020-09-25T02:00:25,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultpyqldb:15
 pyqldb,2.0.2,deprecated,2020-10-01T10:25:21,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultpyqldb:16
-pyqldb,2.0.2,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultpyqldb:17
+pyqldb,2.0.2,deprecated,2020-10-01T10:44:46,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultpyqldb:17
+pyqldb,2.0.2,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultpyqldb:18
 pyYaml,5.3,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultpyYaml:1
 PyYAML,5.3.1,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultPyYAML:4
 records,0.5.3,deprecated,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrecords:1
@@ -84,7 +89,8 @@ records,0.5.3,deprecated,2020-09-11T02:00:18,arn:aws:lambda:ap-southeast-1:90864
 records,0.5.3,deprecated,2020-09-18T02:00:19,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrecords:7
 records,0.5.3,deprecated,2020-09-25T02:00:20,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrecords:8
 records,0.5.3,deprecated,2020-10-01T10:25:16,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrecords:9
-records,0.5.3,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrecords:10
+records,0.5.3,deprecated,2020-10-01T10:44:43,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrecords:10
+records,0.5.3,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrecords:11
 requests,2.23.0,deprecated,2020-08-08T03:25:38,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrequests:11
 requests,2.23.0,deprecated,2020-08-14T02:00:17,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrequests:12
 requests,2.23.0,deprecated,2020-08-21T02:00:15,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultrequests:13
@@ -106,6 +112,7 @@ spacy,2.3.0,deprecated,2020-09-11T02:00:39,arn:aws:lambda:ap-southeast-1:9086458
 spacy,2.3.1,deprecated,2020-09-18T02:00:39,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultspacy:11
 spacy,2.3.2,deprecated,2020-09-25T02:00:40,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultspacy:12
 spacy,2.3.2,deprecated,2020-10-01T10:25:35,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultspacy:13
-spacy,2.3.2,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultspacy:14
+spacy,2.3.2,deprecated,2020-10-01T10:45:01,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultspacy:14
+spacy,2.3.2,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultspacy:15
 spacy_model_en_small,2.25,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaultspacy_model_en_small:1
 tablib,1.1.0,latest,,arn:aws:lambda:ap-southeast-1:908645878701:layer:pylayers-python38-defaulttablib:1
