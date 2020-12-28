@@ -1,7 +1,7 @@
-awswrangler==2.0.1
+awswrangler==2.2.0
 beautifulsoup4==4.9.3
-boto3==1.16.40
-botocore==1.19.40
+boto3==1.16.43
+botocore==1.19.43
 certifi==2020.12.5
 chardet==4.0.0
 idna==2.10
@@ -13,7 +13,7 @@ pg8000==1.16.6
 pyarrow==2.0.0
 PyMySQL==0.10.1
 python-dateutil==2.8.1
-pytz==2020.4
+pytz==2020.5
 redshift-connector==2.0.872
 requests==2.25.1
 s3transfer==0.3.3
